@@ -1,0 +1,41 @@
+body {
+    min-height: 100vh;
+    background: radial-gradient(circle at 50%, #a537fd, transparent), #639;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* overflow: hidden; */
+    color: white;
+  }
+img{
+    width: 300px;
+    height: 400px;
+}
+h6{
+    width: 100%;
+    height: 100%;
+    font-size: small;
+    font-weight:normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+.container{
+    width: auto !important;
+    height: auto !important;
+    max-width: 400px !important;
+}
+#contenedor{
+    background-color: rgba(0, 0, 0, 0.329);
+    padding: 10px;
+    border-radius: 25px;
+}
+#character{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.329);
+    border-radius: 25px;
+    padding: 15px;
+}

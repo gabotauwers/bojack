@@ -1,0 +1,33 @@
+body {
+    min-height: 100vh;
+    background: radial-gradient(circle at 50%, #a537fd, transparent), #639;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    color: white;
+  }
+img{
+    max-width: 100%;
+    height: auto;
+}
+.container{
+    border: white 5px solid !important;
+    border-radius: 15%;
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 300px;
+}
+.box{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.bo{
+    cursor: pointer;
+}
+.bojack:hover .bo {-webkit-transform:scale(-1);transform:scale(1.1);}
+.bojack {overflow:hidden;}
+.character{
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/personajes.css">
+    <link rel="shortcut icon" href="img/bojack.ico" type="image/x-icon">
+    <title>Personajes</title>
+</head>
+<body>
+    <div class="container">
+      <form>
+        <!-- Otros campos de formulario aquí -->
+        <div id="contenedor" class="my-3">
+          <label for="temporadas">Temporada:</label>
+          <select class="form-control mb-4 text-center" id="temporadas">
+            <option selected disabled>Seleccione</option>
+            <option value="1">Temporada 1</option>
+            <option value="2">Temporada 2</option>
+            <option value="3">Temporada 3</option>
+            <option value="4">Temporada 4</option>
+            <option value="5">Temporada 5</option>
+            <option value="6">Temporada 6</option>
+          </select>
+          <label for="personajes">Personaje:</label>
+          <select class="form-control mb-4 text-center" id="personajes">
+            <!-- <option selected>Seleccione</option>
+            <option value="bojack">BoJack Horseman</option>
+            <option value="princess">Princess Carolyn</option>
+            <option value="todd">Todd Chavez</option>
+            <option value="diane">Diane Nguyen</option>
+            <option value="mr">Mr. Peanutbutter</option>
+            <option value="sarah">Sarah Lynn</option>
+            <option value="wanda">Wanda Pierce</option>
+            <option value="secretariat">Secretariat</option>
+            <option value="charlotte">Charlotte Carson</option>
+            <option value="herb">Herb Kazzaz</option> -->
+          </select>
+          <img src="img/bojack1.png" class="rounded mx-auto d-block mb-2" alt="" id="imagen">
+          <h3 id="nombre" class="text-center m-3"></h3>
+          <div class="container text-center">
+            <a type="button" class="btn btn-light text-center" href="index.html">Regresar</a>
+          </div>
+          <!-- <div class="container mt-3" id="character">
+            <h6 id="informacion"></h6>
+          </div> -->
+        </div>
+      </form>
+    </div>
+      <script src="js/app.js"></script>      
+</body>
+</html>
