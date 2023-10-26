@@ -89,7 +89,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("bojack.html");
                 });
-                // informacion.innerHTML = 'BoJack Horseman es un personaje ficticio de la serie de animación homónima. Es un caballo antropomórfico y ex actor de televisión. La serie sigue su vida decadente en Hollywood mientras lucha con la fama pasada y problemas personales. La trama explora temas de depresión y relaciones disfuncionales de manera satírica y conmovedora.';
+                informacion.innerHTML = 'BoJack Horseman es un personaje ficticio de la serie de animación homónima. Es un caballo antropomórfico y ex actor de televisión. La serie sigue su vida decadente en Hollywood mientras lucha con la fama pasada y problemas personales. La trama explora temas de depresión y relaciones disfuncionales de manera satírica y conmovedora.';
                 break;
             case "charlotte":
                 imagen.src = "img/charlotte.jpg";
@@ -97,7 +97,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("charlotte.html");
                 });
-                // informacion.innerHTML = 'Charlotte Carson es un personaje ficticio de la serie de animación BoJack Horseman. Es una cierva antropomórfica que vive en New Mexico. Es la esposa de Kyle Carson y madre de Penny Carson. Es una mujer amable y cariñosa, que se preocupa por su familia y amigos.';
+                informacion.innerHTML = 'Charlotte Carson es un personaje ficticio de la serie de animación BoJack Horseman. Es una cierva antropomórfica que vive en New Mexico. Es la esposa de Kyle Carson y madre de Penny Carson. Es una mujer amable y cariñosa, que se preocupa por su familia y amigos.';
                 break;
             case "diane":
                 imagen.src = "img/diane.png";
@@ -105,7 +105,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("diane.html");
                 });
-                // informacion.innerHTML = 'Diane Nguyen es un personaje ficticio de la serie de animación BoJack Horseman. Es una humana y escritora de libros. Es la esposa de Mr. Peanutbutter. Es una mujer inteligente, sarcástica y con un gran sentido de la justicia.';
+                informacion.innerHTML = 'Diane Nguyen es un personaje ficticio de la serie de animación BoJack Horseman. Es una humana y escritora de libros. Es la esposa de Mr. Peanutbutter. Es una mujer inteligente, sarcástica y con un gran sentido de la justicia.';
                 break;
             case "herb":
                 imagen.src = "img/herb.jpg";
@@ -113,7 +113,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("herb.html");
                 });
-                // informacion.innerHTML = 'Herb Kazzaz es un personaje ficticio de la serie de animación BoJack Horseman. Es un humano y ex escritor de televisión. Es el mejor amigo de BoJack Horseman. Es un hombre amable, inteligente y con un gran sentido del humor.';
+                informacion.innerHTML = 'Herb Kazzaz es un personaje ficticio de la serie de animación BoJack Horseman. Es un humano y ex escritor de televisión. Es el mejor amigo de BoJack Horseman. Es un hombre amable, inteligente y con un gran sentido del humor.';
                 break;
             case "mr":
                 imagen.src = "img/mr.png";
@@ -121,7 +121,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("mr.html");
                 });
-                // informacion.innerHTML = 'Mr. Peanutbutter es un personaje ficticio de la serie de animación BoJack Horseman. Es un perro antropomórfico y actor de televisión. Es el esposo de Diane Nguyen. Es un hombre amable, optimista y con un gran sentido del humor.';
+                informacion.innerHTML = 'Mr. Peanutbutter es un personaje ficticio de la serie de animación BoJack Horseman. Es un perro antropomórfico y actor de televisión. Es el esposo de Diane Nguyen. Es un hombre amable, optimista y con un gran sentido del humor.';
                 break;
             case "princess":
                 imagen.src = "img/princess.jpg";
@@ -129,7 +129,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("princess.html");
                 });
-                // informacion.innerHTML = 'Princess Carolyn es un personaje ficticio de la serie de animación BoJack Horseman. Es un gato antropomórfico y agente de talentos. Es la ex novia de BoJack Horseman. Es una mujer inteligente, trabajadora y con un gran sentido del humor.';
+                informacion.innerHTML = 'Princess Carolyn es un personaje ficticio de la serie de animación BoJack Horseman. Es un gato antropomórfico y agente de talentos. Es la ex novia de BoJack Horseman. Es una mujer inteligente, trabajadora y con un gran sentido del humor.';
                 break;
             case "sarah":
                 imagen.src = "img/sarah.webp";
@@ -137,7 +137,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("sarah.html");
                 });
-                // informacion.innerHTML = 'Sarah Lynn es un personaje ficticio de la serie de animación BoJack Horseman. Es un humano y actriz de televisión. Es la ex co-protagonista de Horsin\' Around. Es una mujer amable, inteligente y con un gran sentido del humor.';
+                informacion.innerHTML = 'Sarah Lynn es un personaje ficticio de la serie de animación BoJack Horseman. Es un humano y actriz de televisión. Es la ex co-protagonista de Horsin\' Around. Es una mujer amable, inteligente y con un gran sentido del humor.';
                 break;
             case "secretariat":
                 imagen.src = "img/secretariat.jpg";
@@ -145,7 +145,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("secretariat.html");
                 });
-                // informacion.innerHTML = 'Secretariat es un personaje ficticio de la serie de animación BoJack Horseman. Es un caballo antropomórfico y actor de cine. Es el ídolo de BoJack Horseman. Es un hombre amable, inteligente y con un gran sentido del humor.';
+                informacion.innerHTML = 'Secretariat es un personaje ficticio de la serie de animación BoJack Horseman. Es un caballo antropomórfico y actor de cine. Es el ídolo de BoJack Horseman. Es un hombre amable, inteligente y con un gran sentido del humor.';
                 break;
             case "todd":
                 imagen.src = "img/todd.jpg";
@@ -153,7 +153,7 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("todd.html");
                 });
-                // informacion.innerHTML = 'Todd Chavez es un personaje ficticio de la serie de animación BoJack Horseman. Es un humano y mejor amigo de BoJack Horseman. Es un hombre amable, inteligente y con un gran sentido del humor.';
+                informacion.innerHTML = 'Todd Chavez es un personaje ficticio de la serie de animación BoJack Horseman. Es un humano y mejor amigo de BoJack Horseman. Es un hombre amable, inteligente y con un gran sentido del humor.';
                 break;
             case "wanda":
                 imagen.src = "img/wanda.webp";
@@ -161,12 +161,12 @@ personaje.addEventListener(
                 imagen.addEventListener("click",function(){
                     window.location.href = ("wanda.html");
                 });
-                // informacion.innerHTML = 'Wanda Pierce es un personaje ficticio de la serie "BoJack Horseman". Es una mujer humana que entra en la vida de BoJack en la temporada 2. Wanda es conocida por su actitud positiva y su sentido del humor, y desafía la visión cínica de BoJack sobre la vida.';
+                informacion.innerHTML = 'Wanda Pierce es un personaje ficticio de la serie "BoJack Horseman". Es una mujer humana que entra en la vida de BoJack en la temporada 2. Wanda es conocida por su actitud positiva y su sentido del humor, y desafía la visión cínica de BoJack sobre la vida.';
                 break;
             default:
                 imagen.src = "img/bojack1.png";
                 nombre.innerHTML = '';
-                // informacion.innerHTML = '';
+                informacion.innerHTML = '';
                 break;
         }
     },
